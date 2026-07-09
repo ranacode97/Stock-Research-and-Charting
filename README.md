@@ -14,12 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tristcoil/zero-sum-public"><img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://discord.gg/a89Ua6CQj"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-19-61dafb?logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Flask-3-green?logo=flask" alt="Flask" />
