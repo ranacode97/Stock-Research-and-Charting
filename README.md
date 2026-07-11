@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zero-sum-times.com"><img src="https://img.shields.io/badge/🌐_Live_Site-zero--sum--times.com-8B6914?style=for-the-badge" alt="Live Site" /></a>
+  <img src="https://img.shields.io/badge/🌐_Live_Site-zero--sum--times.com-8B6914?style=for-the-badge" alt="Live Site" /></a>
 </p>
 
 <p align="center">
